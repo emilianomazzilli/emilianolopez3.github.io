@@ -1,0 +1,52 @@
+* {
+    background-color: #0b0511;
+    font-family: Arial;
+}
+hr {
+    border-color: rgba(86, 44, 177, 0.767);
+}
+h1 {
+    text-align: center;
+    color: white;
+    letter-spacing: 7px;
+    font-size: xx-large;
+    background-color: rgba(57, 89, 152, 0);
+    border-color: rgba(57, 89, 152, 0);
+}
+h2 {
+    text-indent: 10px;
+    color: whitesmoke;
+    padding-left: 25px;
+}   
+p {
+    text-indent: 15px; 
+    color: #7c36c2; 
+    text-align: justify;
+    margin-right: 8%;
+}
+img {
+    max-width: 200px;
+    max-height: 200px;
+    float: left;
+    padding: 20px;
+}
+td {
+    color: white;
+    padding: 10px;
+}
+input {
+    background-color: rgba(126, 56, 202, 0.445);
+    border-color: rgb(60, 8, 116);
+    font-size: 13px;
+    padding: 8px 12px;
+    text-align: center;
+}
+a {
+    color: rgb(103, 103, 226);
+}
+h3 {
+    color: white;
+}
+section {
+    background-color: rgba(57, 89, 152, 0.562);
+}
